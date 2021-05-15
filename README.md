@@ -16,9 +16,11 @@ When using this extension, a shortcut key is enough to eliminate these distracti
 ![Browser with the path to the Google Chrome extensions tab](https://github.com/rafaelmarchesin/hide-google-meet-distractions/blob/main/images/extensions.png?raw=true)
 
 3. Activate the "Developer mode" checkbox:
+
 ![Developer Mode](https://github.com/rafaelmarchesin/hide-google-meet-distractions/blob/main/images/developer_mode.png?raw=true)
 
 4. Click on "Upload without compression" and choose the folder of this repository cloned on your computer.
+
 ![Upload without compression](https://github.com/rafaelmarchesin/hide-google-meet-distractions/blob/main/images/upload_without_compression.png?raw=true)
 
 5. That's it! The extension is already active!
