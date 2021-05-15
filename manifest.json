@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+
+    "name": "Hide Google Meet Distractions",
+    "version": "0.1.0",
+    "description": "A simple extension that hide Google Meet Distractions",
+    "author": "Rafael Marchesin",
+
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+
+    "content_scripts": [
+        {
+            "js": [ "js/content.js" ],
+            "css": [ "css/style.css" ],
+            "matches": [ "https://meet.google.com/*" ],
+            "run_at": "document_idle"
+        }
+    ]
+}
