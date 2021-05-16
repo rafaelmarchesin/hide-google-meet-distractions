@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "Hide Google Meet Distractions",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A simple extension that hide Google Meet Distractions",
     "author": "Rafael Marchesin",
     "icons": {
