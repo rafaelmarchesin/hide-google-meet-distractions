@@ -1,3 +1,5 @@
+!!! After the changes to Google Meet, this extension has become obsolete !!!
+
 # Introduction
 This repository introduces the Google Chrome browser extension "Hide Google Meet Distractions".
 
